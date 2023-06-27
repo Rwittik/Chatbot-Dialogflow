@@ -41,7 +41,12 @@ To integrate your own Dialogflow chatbot, follow these steps:
 
 ## Contributing
 
-Contributions to improve and enhance this hobby page are welcome! If you have any suggestions or would like to add more hobbies, personal stories, or features, feel free to submit a pull request.
+Contributions to improve and enhance this hobby website are welcome! If you have any suggestions or would like to add more hobbies, personal stories, or features, feel free to submit a pull request.
+
+#DialogFlow Setup
+
+![Dialogflow setup ss]([https://example.com/images/example-image.jpg](https://drive.google.com/file/d/1D9iGfVOexTYBr4lakRgQpxxSyJ-U3xXl/view?usp=sharing)https://drive.google.com/file/d/1D9iGfVOexTYBr4lakRgQpxxSyJ-U3xXl/view?usp=sharing)
+
 
 ## License
 
