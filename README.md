@@ -45,7 +45,7 @@ Contributions to improve and enhance this hobby website are welcome! If you have
 
 #DialogFlow Setup
 
-![Dialogflow setup ss](https://drive.google.com/file/d/1D9iGfVOexTYBr4lakRgQpxxSyJ-U3xXl/view?usp=sharing)
+![Dialogflow setup ss](https://drive.google.com/file/d/18x4d4Gw0fQY9CSNx5X2bOshF5UVR4eIk/view?usp=sharing)
 
 
 ## License
